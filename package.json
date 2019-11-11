@@ -1,5 +1,5 @@
 {
-  "name": "rc-slider2",
+  "name": "rc-slider",
   "version": "8.7.1",
   "description": "Slider UI component for React",
   "keywords": [
@@ -13,7 +13,7 @@
   "homepage": "https://github.com/stubean/slider/",
   "repository": {
     "type": "git",
-    "url": "git@github.com:stubean/slider.git"
+    "url": "git@github.com:rc-slider/slider.git"
   },
   "bugs": {
     "url": "http://github.com/react-component/slider/issues"
